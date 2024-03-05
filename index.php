@@ -17,56 +17,19 @@
 <body>
 <!--    Barre de navigation-->
 <header>
-    <section class="p-0">
 
-        <nav class="navbar navbar-expand-md bg-body-tertiary">
-            <div class="container-fluid">
-                <div class="d-flex justify-content-start">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" color="#000000" fill="currentColor"
-                         class="bi bi-badge-vr-fill" viewBox="0 0 16 16">
-                        <path d="M9.673 5.933v1.938h1.033c.66 0 1.068-.316 1.068-.95 0-.64-.422-.988-1.05-.988z"/>
-                        <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm5.937 7 1.99-5.999H6.61L5.277 9.708H5.22L3.875 5.001H2.5L4.508 11zM8.5 5.001V11h1.173V8.763h1.064L11.787 11h1.327L11.91 8.583C12.455 8.373 13 7.779 13 6.9c0-1.147-.773-1.9-2.105-1.9H8.5z"/>
-                    </svg>
-                    <a class="navbar-brand ms-2" href="#">VR Industry</a>
-                </div>
-                <form class="d-flex justify-content-end">
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                            aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav me-auto">
-                            <li class="nav-item">
-                                <a class="nav-link" href="#contenu">A propos de la formation</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#avis">Avis</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#contact">Contact</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="btn btn-primary" href="#tarifs" role="button">Acheter maintenant</a>
-                            </li>
-                        </ul>
-                    </div>
-                </form>
-            </div>
-        </nav>
+    <?php include_once 'parties/menu.php' ?>
 
-    </section>
 </header>
 <main>
     <!--    Présentation-->
-    <section id="presentation">
-        <section class="mt-3">
-            <div class="container-fluid">
+
+    <section id="presentation" class="container-fluid mt-3">
 
                 <div class="row justify-content-between align-middle">
                     <div class="col col-12 col-md-6">
                         <div class="card border-0 mx-auto text-center">
-                            <h3 class="card-title fs-1 text-gold">Réalité virtuelle</h3>
+                            <h3 class="card-title fs-1">Réalité virtuelle</h3>
                             <h5 class="card-title fs-4 text-secondary">Un nouveau monde à crée</h5>
                             <p class="card-text fs-5">Le monde virtuel est un monde différent du réel, car celui-ci est régi par des règles différentes des nôtres.
                                 Évidemment, il y a tout de même majoritairement des points communs, pourtant ce sont ses différences qui le rendent si attirant.</p>
@@ -79,8 +42,6 @@
                              alt="...">
                     </div>
                 </div>
-            </div>
-        </section>
     </section>
 
     <!--    Tarifs-->
