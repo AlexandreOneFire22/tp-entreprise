@@ -3,22 +3,19 @@
         <div class="container-fluid">
             <div class="d-flex justify-content-start align-items-center">
                 <img src="../assets/images/logo5.png" height="80">
-                <a class="navbar-brand ms-2 text-gold fs-3" href="#">VR Industry</a>
+                <a class="navbar-brand ms-2 text-gold fs-2" href="..">VR Industry</a>
             </div>
             <form class="d-flex justify-content-end">
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a class="nav-link text-gold" href="#propos">A propos de la formation</a>
+                            <a class="nav-link text-gold fs-4" href="..">Accueil</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-gold" href="#avis">Avis</a>
+                            <a class="nav-link text-gold fs-4" href="../pages/jeu.php">Jeux</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-gold" href="#contact">Contact</a>
-                        </li>
-                        <li class="nav-item">
-                            <button type="button" class="btn btn-gold text-black">Acheter maintenant</button>
+                            <a class="nav-link text-gold fs-4" href="../pages/materiel.php">Matériel</a>
                         </li>
                     </ul>
                 </div>

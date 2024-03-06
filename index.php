@@ -18,7 +18,7 @@
 <!--    Barre de navigation-->
 <header>
 
-    <?php include_once 'parties/menu.php' ?>
+    <?php include_once 'menu/menu.php' ?>
 
 </header>
 <main>
@@ -317,9 +317,9 @@
             <p class="text-center"><a class="btn btn-secondary">Envoyer</a></p>
     </section>
 </main>
-<footer>
 
-</footer>
+<?php include_once "menu/footer.php" ?>
+
 <script src="assets/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
