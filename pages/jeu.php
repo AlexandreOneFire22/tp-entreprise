@@ -23,10 +23,85 @@
 </header>
 <main>
 
+    <section class="mt-5 mb-5">
+        <div class="container">
+
+            <h3 class="text-center fw-semibold">Tarifs</h3>
+
+            <p class="text-center text-body-secondary mb-4">Choisir le bon plan adapté à vos besoins</p>
+
+            <div class="row">
+                <div class="col col-12 col-lg-3">
+                    <div class="card mb-3 mx-0 border-0 mt-4">
+
+                        <img src="../assets/images/jeu/VRchat.jpg" class="card-img-top">
+
+                        <div class="card-body text-center w-75 mx-auto">
+
+                            <h4 class="card-title fw-semibold"> VR chat</h4>
+
+                            <h2 class="fs-4 text-primary fw-bold">19.99€</h2>
+
+                            <p class="card-text d-lg-block d-none"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam asperiores commodi eius nobis odio omnis qui quidem sunt tempora vitae. </p>
+                            <a class="btn btn-outline-primary">Acheter maintenant</a>
+                        </div>
+                    </div>
+                </div>
 
 
+                <div class="col col-12 col-lg-3">
+                    <div class="card mb-3 mx-0 border-0 mt-4">
+
+                    <img src="../assets/images/jeu/beat-saber.jpeg" class="card-img-top">
+
+                    <div class="card-body text-center w-75 mx-auto">
+                        <h4 class="card-title fw-semibold"> Beat Saber</h4>
+
+                        <h2 class="fs-4 text-primary fw-bold">29.99€</h2>
+
+                        <p class="card-text d-lg-block d-none"> Casque VR / PC </p>
+                        <a class="btn btn-outline-primary">Acheter maintenant</a>
+                    </div>
+                </div>
+                </div>
 
 
+                <div class="col col-12 col-lg-3">
+                    <div class="card mb-3 mx-0 border-0 mt-4">
+
+                        <img src="../assets/images/jeu/battle-talent.jpg" class="card-img-top">
+
+                        <div class="card-body text-center w-75 mx-auto">
+
+                            <h4 class="card-title fw-semibold"> battle talent</h4>
+
+                            <h2 class="fs-4 text-primary fw-bold">39.99€</h2>
+
+                            <p class="card-text d-lg-block d-none"> Casque VR / PC / Full body tracking </p>
+                            <a class="btn btn-outline-primary">Acheter maintenant</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col col-12 col-lg-3">
+                    <div class="card mb-3 mx-0 border-0 mt-4">
+
+                        <img src="../assets/images/jeu/poker.jpg" class="card-img-top" style="height: 180px">
+
+                        <div class="card-body px-1 text-center w-75 mx-auto">
+
+                            <h4 class="card-title fw-semibold">Vegas Infinite</h4>
+
+                            <h2 class="fs-4 text-primary fw-bold">FREE</h2>
+
+                            <p class="card-text d-lg-block d-none"> Casque VR / PC / Full body tracking / Combinaison haptique </p>
+                            <a class="btn btn-outline-primary">Acheter maintenant</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 </main>
 

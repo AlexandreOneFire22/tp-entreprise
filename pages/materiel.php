@@ -29,13 +29,13 @@
 
                 <h3 class="text-center fw-semibold">Tarifs</h3>
 
-                <p class="text-center text-body-secondary">Choisir le bon plan adapté à vos besoins</p>
+                <p class="text-center text-body-secondary mb-4">Choisir le bon plan adapté à vos besoins</p>
 
                 <div class="row">
                     <div class="col p-0 col-12 col-lg-3">
                         <div class="card mb-3 mx-0 border-0 mt-4">
 
-                            <img src="../assets/images/casque_VR.webp" class="card-img-top">
+                            <img src="../assets/images/materiel/casque_VR.webp" class="card-img-top">
 
                             <div class="card-body text-center w-75 mx-auto">
 
@@ -50,11 +50,9 @@
                     </div>
 
 
-                    <div class="col p-0 col-12 col-lg-3">
-                        <div class="card mb-3 mx-0 border-2 border-primary">
-                            <p class="text-primary bg-light mt-0 text-center"> Le plus populaire</p>
-
-                            <img src="../assets/images/pc.jpg" class="card-img-top">
+                    <div class="col p-0 col-12 col-lg-3 card mb-0 mx-0 border-2 border-primary">
+                        <p class="text-primary bg-light m-0 text-center"> Le plus populaire</p>
+                            <img src="../assets/images/materiel/pc.jpg" class="card-img-top">
 
                             <div class="card-body text-center w-75 mx-auto">
                                 <h4 class="card-title fw-semibold"> Complete Edition</h4>
@@ -64,14 +62,13 @@
                                 <p class="card-text d-lg-block d-none"> Casque VR / PC </p>
                                 <a class="btn btn-outline-primary">Acheter maintenant</a>
                             </div>
-                        </div>
                     </div>
 
 
                     <div class="col p-0 col-12 col-lg-3">
                         <div class="card mb-3 mx-0 border-0 mt-4">
 
-                            <img src="../assets/images/full.jpg" class="card-img-top">
+                            <img src="../assets/images/materiel/full.jpg" class="card-img-top">
 
                             <div class="card-body text-center w-75 mx-auto">
 
@@ -88,7 +85,7 @@
                     <div class="col p-0 col-12 col-lg-3">
                         <div class="card mb-3 mx-0 border-0 mt-4">
 
-                            <img src="../assets/images/combinaison.jpg" class="card-img-top">
+                            <img src="../assets/images/materiel/combinaison.jpg" class="card-img-top">
 
                             <div class="card-body text-center w-75 mx-auto">
 
