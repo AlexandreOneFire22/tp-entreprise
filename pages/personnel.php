@@ -41,6 +41,21 @@
     </section>
 
 
+    <section class="container mt-3">
+
+        <div class="d-flex justify-content-evenly">
+            <div class="d-flex">
+                <img src="../assets/images/personnel/photo2.png" width="100" class="m-2">
+                <p class="align-self-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aut blanditiis ea iusto numquam possimus repellendus voluptatibus. Consequuntur, iusto tempora?</p>
+            </div>
+            <div class="d-flex">
+                <img src="../assets/images/personnel/licorne2.jpg" width="100" class="m-2">
+                <p class="align-self-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aut blanditiis ea iusto numquam possimus repellendus voluptatibus. Consequuntur, iusto tempora?</p>
+            </div>
+        </div>
+
+    </section>
+
 
 </main>
 
