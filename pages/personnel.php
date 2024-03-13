@@ -30,7 +30,8 @@
                 <div class="card border-0 mx-auto text-center">
                     <h3 class="card-title fs-2">notre entreprise</h3>
                     <p class="card-text fs-5">Notre entreprise à pour objectif principale de vous transmettre la passion que nous mettons dans nos création.
-                        <br>C'est pourquoi nous avons pris la décision de rester en effectif restrein, cela nous permet de nous focaliser sur la qualiter de nos produits, et non la quantité.</p>
+                        <br>C'est pourquoi nous avons pris la décision de rester en effectif restrein, cela nous permet de nous focaliser
+                        sur la qualiter de nos produits, et non la quantité pour vous offrir la meilleur experience possible.</p>
 
                 </div>
             </div>
@@ -51,6 +52,41 @@
             <div class="d-flex">
                 <img src="../assets/images/personnel/licorne2.jpg" width="100" class="m-2">
                 <p class="align-self-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aut blanditiis ea iusto numquam possimus repellendus voluptatibus. Consequuntur, iusto tempora?</p>
+            </div>
+        </div>
+
+    </section>
+
+
+    <section class="container mt-3">
+
+        <h2 class="mb-4">Fiche de poste :</h2>
+
+        <div class="row">
+
+            <div class="col p-0 col-4 col-lg-3">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-PDG.pdf" class=" text-black btn btn-gold2">PDG</a>
+            </div>
+
+            <div class="col p-0 col-4 col-lg-3">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-co-directeur.pdf" class=" text-black btn btn-gold2">co-directeur</a>
+            </div>
+
+
+            <div class="col p-0 col-4 col-lg-3">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-chef-jv.pdf" class=" text-black btn btn-gold2">chef du pôle jeu vidéo</a>
+            </div>
+
+            <div class="col p-0 col-4 col-lg-3">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-chef-m.pdf" class=" text-black btn btn-gold2">chef du pôle matériel</a>
+            </div>
+
+            <div class="col p-0 col-4 col-lg-3">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-employe-jv.pdf" class=" text-black btn btn-gold2">Employé du pôle jeu vidéo</a>
+            </div>
+
+            <div class="col p-0 col-4 col-lg-3">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-employe-m.pdf" class=" text-black btn btn-gold2">Employé du pôle matériel</a>
             </div>
         </div>
 
