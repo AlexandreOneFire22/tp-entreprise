@@ -26,9 +26,9 @@
     <section class="mt-5 mb-5">
         <div class="container">
 
-            <h3 class="text-center fw-semibold">Tarifs</h3>
+            <h3 class="text-center fw-semibold">Galerie</h3>
 
-            <p class="text-center text-body-secondary mb-4">Choisir le bon plan adapté à vos besoins</p>
+            <p class="text-center text-body-secondary mb-4">Choisir les jeux qui vous attire.</p>
 
             <div class="row">
                 <div class="col col-12 col-lg-3">
@@ -38,11 +38,17 @@
 
                         <div class="card-body text-center w-75 mx-auto">
 
-                            <h4 class="card-title fw-semibold"> VR chat</h4>
+                            <h4 class="card-title fw-semibold"> VRchat</h4>
 
                             <h2 class="fs-4 text-primary fw-bold">19.99€</h2>
 
-                            <p class="card-text d-lg-block d-none"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam asperiores commodi eius nobis odio omnis qui quidem sunt tempora vitae. </p>
+                            <p class="card-text d-lg-block d-none"> VRchat est un jeu vidéo mais est avant tous un réseau social en réaliter virtuelle,
+                                celui-ci vous donne la possibilité de vous aventure dans n'importe qu'elle monde. Vous pourrez aller dans des chalet dans la montagne ou même dans l'espace
+                                en passant par un cinéma, les possibiliter sont infinie. Vous pourrez également rencontrer différente personne, faire leurs connaissance pour en faire votre amis.
+                                VRchat vous offre la liberté de découvrir des monde et des perssones à la demande.</p>
+
+
+
                             <a class="btn btn-outline-primary">Acheter maintenant</a>
                         </div>
                     </div>
@@ -108,5 +114,6 @@
 <?php include_once '../menu/footer.php' ?>
 
 <script src="../assets/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>

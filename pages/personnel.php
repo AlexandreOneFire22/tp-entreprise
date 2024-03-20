@@ -26,12 +26,12 @@
     <section class="container mt-3">
 
         <div class="row justify-content-between align-middle">
-            <div class="col col-12 col-md-6">
+            <div class="col col-12 col-md-6 align-self-center">
                 <div class="card border-0 mx-auto text-center">
                     <h3 class="card-title fs-2">notre entreprise</h3>
-                    <p class="card-text fs-5">Notre entreprise à pour objectif principale de vous transmettre la passion que nous mettons dans nos création.
+                    <p class="card-text fs-5">Notre entreprise à pour objectif principale de vous transmettre la passion que nous mettons dans nos créations.
                         <br>C'est pourquoi nous avons pris la décision de rester en effectif restrein, cela nous permet de nous focaliser
-                        sur la qualiter de nos produits, et non la quantité pour vous offrir la meilleur experience possible.</p>
+                        sur la qualitée de nos produits, et non la quantitée pour vous offrir la meilleur experience possible.</p>
 
                 </div>
             </div>
@@ -60,33 +60,33 @@
 
     <section class="container mt-3">
 
-        <h2 class="mb-4">Fiche de poste :</h2>
+        <h2 class="mb-4 text-gris2">Fiche de poste :</h2>
 
         <div class="row">
 
-            <div class="col p-0 col-4 col-lg-3">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-PDG.pdf" class=" text-black btn btn-gold2">PDG</a>
+            <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-PDG.pdf" class="text-black btn btn-warning fs-5">PDG</a>
             </div>
 
-            <div class="col p-0 col-4 col-lg-3">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-co-directeur.pdf" class=" text-black btn btn-gold2">co-directeur</a>
+            <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-co-directeur.pdf" class=" text-black btn btn-warning fs-5">co-directeur</a>
             </div>
 
 
-            <div class="col p-0 col-4 col-lg-3">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-chef-jv.pdf" class=" text-black btn btn-gold2">chef du pôle jeu vidéo</a>
+            <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-chef-jv.pdf" class=" text-black btn btn-warning fs-5">chef du pôle jeu vidéo</a>
             </div>
 
-            <div class="col p-0 col-4 col-lg-3">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-chef-m.pdf" class=" text-black btn btn-gold2">chef du pôle matériel</a>
+            <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-chef-m.pdf" class=" text-black btn btn-warning fs-5">chef du pôle matériel</a>
             </div>
 
-            <div class="col p-0 col-4 col-lg-3">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-employe-jv.pdf" class=" text-black btn btn-gold2">Employé du pôle jeu vidéo</a>
+            <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-employe-jv.pdf" class=" text-black btn btn-warning fs-5">Employé du pôle jeu vidéo</a>
             </div>
 
-            <div class="col p-0 col-4 col-lg-3">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-employe-m.pdf" class=" text-black btn btn-gold2">Employé du pôle matériel</a>
+            <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
+                <a href="../assets/fiche_de_poste/fiche-de-poste-employe-m.pdf" class=" text-black btn btn-warning fs-5">Employé du pôle matériel</a>
             </div>
         </div>
 

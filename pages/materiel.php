@@ -174,7 +174,7 @@
                             <div id="collapseFour" class="accordion-collapse collapse bg-light" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     Une combinaison haptique est une combinaison à même le corps, celle-ci vibre au
-                                    endroit où l'avatar (votre corps virtuel) est touché. Cela permet une meilleure immersion.
+                                    endroit où l'avatar (votre corps virtuel) est touché. Cela permet une meilleure immersion et surtout plus de sensation.
                                 </div>
                             </div>
                         </div>
