@@ -31,7 +31,7 @@
             <p class="text-center text-body-secondary mb-4">Choisir les jeux qui vous attire.</p>
 
             <div class="row">
-                <div class="col col-12 col-lg-3">
+                <div class="col col-12 col-lg-3 h-100">
                     <div class="card mb-3 mx-0 border-0 mt-4">
 
                         <img src="../assets/images/jeu/VRchat.jpg" class="card-img-top">
@@ -40,22 +40,19 @@
 
                             <h4 class="card-title fw-semibold"> VRchat</h4>
 
-                            <h2 class="fs-4 text-primary fw-bold">19.99€</h2>
+                            <h2 class="fs-4 text-primary fw-bold">FREE</h2>
 
-                            <p class="card-text d-lg-block d-none"> VRchat est un jeu vidéo mais est avant tous un réseau social en réaliter virtuelle,
-                                celui-ci vous donne la possibilité de vous aventure dans n'importe qu'elle monde. Vous pourrez aller dans des chalet dans la montagne ou même dans l'espace
-                                en passant par un cinéma, les possibiliter sont infinie. Vous pourrez également rencontrer différente personne, faire leurs connaissance pour en faire votre amis.
-                                VRchat vous offre la liberté de découvrir des monde et des perssones à la demande.</p>
+                            <p class="card-text d-lg-block d-none">VRchat est réseau social sous forme d'un jeu...</p>
 
 
 
-                            <a class="btn btn-outline-primary">Acheter maintenant</a>
+                            <a class="btn btn-outline-primary" href="../jeu/VRchat.php">Acheter maintenant</a>
                         </div>
                     </div>
                 </div>
 
 
-                <div class="col col-12 col-lg-3">
+                <div class="col col-12 col-lg-3 h-100">
                     <div class="card mb-3 mx-0 border-0 mt-4">
 
                     <img src="../assets/images/jeu/beat-saber.jpeg" class="card-img-top">
@@ -65,14 +62,14 @@
 
                         <h2 class="fs-4 text-primary fw-bold">29.99€</h2>
 
-                        <p class="card-text d-lg-block d-none"> Casque VR / PC </p>
-                        <a class="btn btn-outline-primary">Acheter maintenant</a>
+                        <p class="card-text d-lg-block d-none">Beat Saber est un jeu de rythme en VR...</p>
+                        <a class="btn btn-outline-primary" href="../jeu/Beat_saber.php">Acheter maintenant</a>
                     </div>
                 </div>
                 </div>
 
 
-                <div class="col col-12 col-lg-3">
+                <div class="col col-12 col-lg-3 h-100">
                     <div class="card mb-3 mx-0 border-0 mt-4">
 
                         <img src="../assets/images/jeu/battle-talent.jpg" class="card-img-top">
@@ -83,13 +80,13 @@
 
                             <h2 class="fs-4 text-primary fw-bold">39.99€</h2>
 
-                            <p class="card-text d-lg-block d-none"> Casque VR / PC / Full body tracking </p>
-                            <a class="btn btn-outline-primary">Acheter maintenant</a>
+                            <p class="card-text d-lg-block d-none"> Battle Talent est un jeu de combat à l'épée... </p>
+                            <a class="btn btn-outline-primary" href="../jeu/Battle_talent.php">Acheter maintenant</a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col col-12 col-lg-3">
+                <div class="col col-12 col-lg-3 h-100">
                     <div class="card mb-3 mx-0 border-0 mt-4">
 
                         <img src="../assets/images/jeu/poker.jpg" class="card-img-top" style="height: 180px">
@@ -100,8 +97,8 @@
 
                             <h2 class="fs-4 text-primary fw-bold">FREE</h2>
 
-                            <p class="card-text d-lg-block d-none"> Casque VR / PC / Full body tracking / Combinaison haptique </p>
-                            <a class="btn btn-outline-primary">Acheter maintenant</a>
+                            <p class="card-text d-lg-block d-none">Vegas Infinite est un monde de divertissement sans limites...</p>
+                            <a class="btn btn-outline-primary" href="../jeu/Vegas_Infinte.php">Acheter maintenant</a>
                         </div>
                     </div>
                 </div>

@@ -28,13 +28,13 @@
     <section id="presentation" class="container mt-3">
 
                 <div class="row justify-content-between align-middle">
-                    <div class="col col-12 col-md-6">
+                    <div class="col col-12 col-md-6 align-self-center">
                         <div class="card border-0 mx-auto text-center">
                             <h3 class="card-title fs-1">Réalité virtuelle</h3>
                             <h5 class="card-title fs-4 text-secondary">Un nouveau monde à crée</h5>
                             <p class="card-text fs-5">Le monde virtuel est un monde différent du réel, car celui-ci est régi par des règles différentes des nôtres.
                                 Évidemment, il y a tout de même majoritairement des points communs, pourtant ce sont ses différences qui le rendent si attirant.</p>
-                            <a href="#tarifs" class="btn btn-primary">Acheter maintenant</a>
+                            <a href="pages/materiel.php" class="btn btn-primary">Équipez vous maintenant</a>
                         </div>
                     </div>
                     <div class="d-md-block d-none col align-items-center">
@@ -46,74 +46,6 @@
     </section>
 
 
-    <!--    Avis-->
-    <section id="avis" class="bg-light">
-        <div class="container">
-
-            <h3 class="text-center fw-semibold"><i class="bi bi-stars"></i> Avis</h3>
-
-            <p class="text-center text-secondary">Ce que les utilisateurs pensent de la formation...</p>
-
-            <ul class="list-group">
-                <li class="list-group-item">
-                    <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i> <i
-                        class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i>
-
-                    <h5> La VR c'est super :)</h5>
-
-                    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus blanditiis consectetur distinctio
-                        dolorem dolorum ducimus eaque illo, labore laboriosam maiores numquam officiis omnis pariatur quaerat
-                        quos rerum ut veniam vitae. </p>
-
-                    <div class="text-secondary">Avis de Ethan le 01/09/2023</div>
-                </li>
-
-                <li class="list-group-item">
-                    <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i> <i
-                        class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i>
-
-                    <h5> La VR c'est super :)</h5>
-
-                    <p>Rien de plus à rajouter, la VR c'est génial :)</p>
-
-                    <div class="text-secondary">Avis de Ethan le 01/09/2023</div>
-                </li>
-
-                <li class="list-group-item">
-                    <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i> <i
-                        class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i>
-
-                    <h5> La VR c'est super :)</h5>
-
-                    <p>Rien de plus à rajouter, la VR c'est génial :)</p>
-
-                    <div class="text-secondary">Avis de Ethan le 01/09/2023</div>
-                </li>
-
-                <li class="list-group-item">
-                    <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i> <i
-                        class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i>
-
-                    <h5> La VR c'est super :)</h5>
-
-                    <p>Rien de plus à rajouter, la VR c'est génial :)</p>
-
-                    <div class="text-secondary">Avis de Ethan le 01/09/2023</div>
-                </li>
-
-                <li class="list-group-item">
-                    <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i> <i
-                        class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i>
-
-                    <h5> La VR c'est super :)</h5>
-
-                    <p>Rien de plus à rajouter, la VR c'est génial :)</p>
-
-                    <div class="text-secondary">Avis de Ethan le 01/09/2023</div>
-                </li>
-            </ul>
-        </div>
-    </section>
     <!--    Contact-->
     <section id="contact" class="container">
             <h3 class="text-center fw-semibold">Contactez-nous !</h3>

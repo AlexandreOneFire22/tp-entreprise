@@ -47,11 +47,11 @@
         <div class="d-flex justify-content-evenly">
             <div class="d-flex">
                 <img src="../assets/images/personnel/photo2.png" width="100" class="m-2">
-                <p class="align-self-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aut blanditiis ea iusto numquam possimus repellendus voluptatibus. Consequuntur, iusto tempora?</p>
+                <p class="align-self-center">En tant que PDG mon objectif principal est de vous offrir la meilleur expérience possible, vous êtes notre priorité.</p>
             </div>
             <div class="d-flex">
                 <img src="../assets/images/personnel/licorne2.jpg" width="100" class="m-2">
-                <p class="align-self-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aut blanditiis ea iusto numquam possimus repellendus voluptatibus. Consequuntur, iusto tempora?</p>
+                <p class="align-self-center">En tant que Co-directeur mon rôle est d'apporte un second point de vue.....</p>
             </div>
         </div>
 

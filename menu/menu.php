@@ -2,7 +2,7 @@
     <nav class="navbar navbar-expand-md bg-gris">
         <div class="container-fluid">
             <div class="d-flex justify-content-start align-items-center">
-                <img src="../assets/images/logo5.png" height="80">
+                <a href=".."> <img src="../assets/images/logo5.png" height="80"> </a>
                 <a class="navbar-brand ms-2 text-gold fs-2" href="..">VR Industry</a>
             </div>
             <form class="d-flex justify-content-end">

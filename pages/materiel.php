@@ -33,13 +33,13 @@
 
                 <div class="row">
                     <div class="col p-0 col-12 col-lg-3">
-                        <div class="card mb-3 mx-0 border-0 mt-4">
+                        <div class="card mb-3 mx-0 border-0 mt-4" style="height: 540px">
 
-                            <img src="../assets/images/materiel/casque_VR.webp" class="card-img-top">
+                            <img src="../assets/images/materiel/casque_VR.webp" class="card-img-top w-75 mx-auto">
 
                             <div class="card-body text-center w-75 mx-auto">
 
-                                <h4 class="card-title fw-semibold"> Starter Edition</h4>
+                                <h4 class="card-title fw-semibold pt-3"> Starter Edition</h4>
 
                                 <h2 class="fs-4 text-primary fw-bold">349.99€</h2>
 
@@ -49,30 +49,31 @@
                         </div>
                     </div>
 
+                    <div class="col p-0 col-12 col-lg-3">
+                        <div class="card mb-0 mx-0 border-2 border-primary" style="height: 565px">
+                            <p class="text-primary bg-light m-0 text-center"> Le plus populaire</p>
+                                <img src="../assets/images/materiel/pc.jpg" class="card-img-top">
 
-                    <div class="col p-0 col-12 col-lg-3 card mb-0 mx-0 border-2 border-primary">
-                        <p class="text-primary bg-light m-0 text-center"> Le plus populaire</p>
-                            <img src="../assets/images/materiel/pc.jpg" class="card-img-top">
+                                <div class="card-body text-center w-75 mx-auto">
+                                    <h4 class="card-title fw-semibold pt-3"> Complete Edition</h4>
 
-                            <div class="card-body text-center w-75 mx-auto">
-                                <h4 class="card-title fw-semibold"> Complete Edition</h4>
+                                    <h2 class="fs-4 text-primary fw-bold">1299.99€</h2>
 
-                                <h2 class="fs-4 text-primary fw-bold">1299.99€</h2>
-
-                                <p class="card-text d-lg-block d-none"> Casque VR / PC </p>
-                                <a class="btn btn-outline-primary">Acheter maintenant</a>
-                            </div>
+                                    <p class="card-text d-lg-block d-none"> Casque VR / PC </p>
+                                    <a class="btn btn-outline-primary">Acheter maintenant</a>
+                                </div>
+                        </div>
                     </div>
 
 
                     <div class="col p-0 col-12 col-lg-3">
-                        <div class="card mb-3 mx-0 border-0 mt-4">
+                        <div class="card mb-3 mx-0 border-0 mt-4" style="height: 540px">
 
                             <img src="../assets/images/materiel/full.jpg" class="card-img-top">
 
                             <div class="card-body text-center w-75 mx-auto">
 
-                                <h4 class="card-title fw-semibold"> Ultimate Edition</h4>
+                                <h4 class="card-title fw-semibold pt-3"> Ultimate Edition</h4>
 
                                 <h2 class="fs-4 text-primary fw-bold">1599.99€</h2>
 
@@ -83,13 +84,13 @@
                     </div>
 
                     <div class="col p-0 col-12 col-lg-3">
-                        <div class="card mb-3 mx-0 border-0 mt-4">
+                        <div class="card mb-3 mx-0 border-0 mt-4" style="height: 540px">
 
                             <img src="../assets/images/materiel/combinaison.jpg" class="card-img-top">
 
                             <div class="card-body text-center w-75 mx-auto">
 
-                                <h4 class="card-title fw-semibold"> God Edition</h4>
+                                <h4 class="card-title fw-semibold pt-3"> God Edition</h4>
 
                                 <h2 class="fs-4 text-primary fw-bold">2499.99€</h2>
 
@@ -109,11 +110,10 @@
 
             <p class="text-center text-body-secondary">Un rapide aperçu de nos produit </p>
 
-            <div class="row">
+            <div class="row align-self-center align-items-center align-content-center px-3 text-center">
                 <div class="col p-0 col-12 col-lg-6" style="width: 450px">
 
-                    <img src="../assets/images/VR2.jpg" class="mx-auto card-img-top"
-                         alt="...">
+                    <img src="../assets/images/VR2.jpg" class="mx-auto card-img-top" style="height: 290px">
 
                 </div>
 
