@@ -28,7 +28,7 @@
 
         <div class="d-flex justify-content-start bg-light">
             <div>
-                <img src="../assets/images/jeu/poker.jpg" style="width: 500px" class="m-3">
+                <img src="../assets/images/jeu/poker.jpg" style="width: 550px" class="m-3 mt-5">
             </div>
             <div class="d-flex flex-column mb-3 mx-5">
 

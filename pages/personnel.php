@@ -51,7 +51,7 @@
             </div>
             <div class="d-flex">
                 <img src="../assets/images/personnel/licorne2.jpg" width="100" class="m-2">
-                <p class="align-self-center">En tant que Co-directeur mon rôle est d'apporte un second point de vue.....</p>
+                <p class="align-self-center">En tant que Co-directeur mon rôle est d'apporte un second point de vue sur la societé pour pouvoir satisfaire un maximum de personne.</p>
             </div>
         </div>
 
@@ -69,7 +69,7 @@
             </div>
 
             <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-co-directeur.pdf" class=" text-black btn btn-warning fs-5">co-directeur</a>
+                <a href="../assets/fiche_de_poste/fiche-de-poste-co-directeur.pdf" class="text-black btn fs-5 btn-warning">co-directeur</a>
             </div>
 
 

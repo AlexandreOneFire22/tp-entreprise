@@ -32,7 +32,7 @@
                 <p class="text-center text-body-secondary mb-4">Choisir le bon plan adapté à vos besoins</p>
 
                 <div class="row">
-                    <div class="col p-0 col-12 col-lg-3">
+                    <div class="col col-12 col-lg-3">
                         <div class="card mb-3 mx-0 border-0 mt-4" style="height: 540px">
 
                             <img src="../assets/images/materiel/casque_VR.webp" class="card-img-top w-75 mx-auto">
@@ -49,7 +49,7 @@
                         </div>
                     </div>
 
-                    <div class="col p-0 col-12 col-lg-3">
+                    <div class="col col-12 col-lg-3">
                         <div class="card mb-0 mx-0 border-2 border-primary" style="height: 565px">
                             <p class="text-primary bg-light m-0 text-center"> Le plus populaire</p>
                                 <img src="../assets/images/materiel/pc.jpg" class="card-img-top">
@@ -66,7 +66,7 @@
                     </div>
 
 
-                    <div class="col p-0 col-12 col-lg-3">
+                    <div class="col col-12 col-lg-3">
                         <div class="card mb-3 mx-0 border-0 mt-4" style="height: 540px">
 
                             <img src="../assets/images/materiel/full.jpg" class="card-img-top">
@@ -83,7 +83,7 @@
                         </div>
                     </div>
 
-                    <div class="col p-0 col-12 col-lg-3">
+                    <div class="col col-12 col-lg-3">
                         <div class="card mb-3 mx-0 border-0 mt-4" style="height: 540px">
 
                             <img src="../assets/images/materiel/combinaison.jpg" class="card-img-top">
@@ -110,7 +110,7 @@
 
             <p class="text-center text-body-secondary">Un rapide aperçu de nos produit </p>
 
-            <div class="row align-self-center align-items-center align-content-center px-3 text-center">
+            <div class="row align-self-center align-items-center align-content-center px-3 text-center justify-content-evenly">
                 <div class="col p-0 col-12 col-lg-6" style="width: 450px">
 
                     <img src="../assets/images/VR2.jpg" class="mx-auto card-img-top" style="height: 290px">
