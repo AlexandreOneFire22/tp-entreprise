@@ -53,12 +53,12 @@
 
     </section>
 
-    <section id="avis" class="bg-light">
-        <div class="container">
+
+        <div class="container bg-light p-3 mb-5">
 
             <h3 class="text-center fw-semibold"><i class="bi bi-stars"></i> Avis</h3>
 
-            <p class="text-center">Ce que les utilisateurs pensent de la formation...</p>
+            <p class="text-center">Ce que les utilisateurs pensent du jeu...</p>
 
             <ul class="list-group">
                 <li class="list-group-item">
@@ -97,7 +97,6 @@
                 </li>
             </ul>
         </div>
-    </section>
 
 </main>
 

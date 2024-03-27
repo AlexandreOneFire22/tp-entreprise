@@ -44,14 +44,19 @@
 
     <section class="container mt-3">
 
-        <div class="d-flex justify-content-evenly">
-            <div class="d-flex">
-                <img src="../assets/images/personnel/photo2.png" width="100" class="m-2">
-                <p class="align-self-center">En tant que PDG mon objectif principal est de vous offrir la meilleur expérience possible, vous êtes notre priorité.</p>
+        <div class="row">
+            <div class="col-6">
+                <div class="d-flex">
+                    <img src="../assets/images/personnel/photo2.png" width="100" class="m-2">
+                    <p class="align-self-center">En tant que PDG mon objectif principal est de vous offrir la meilleur expérience possible, vous êtes notre priorité.</p>
+                </div>
             </div>
-            <div class="d-flex">
-                <img src="../assets/images/personnel/licorne2.jpg" width="100" class="m-2">
-                <p class="align-self-center">En tant que Co-directeur mon rôle est d'apporte un second point de vue sur la societé pour pouvoir satisfaire un maximum de personne.</p>
+            <div class="col-6">
+                <div class="d-flex">
+                    <img src="../assets/images/personnel/licorne2.jpg" width="100" class="m-2">
+                    <p class="align-self-center">En tant que Co-directeur mon rôle est d'apporte un second point de vue sur
+                    la societé pour pouvoir satisfaire un maximum de personne afin de convenir à toute les attentes.</p>
+                </div>
             </div>
         </div>
 
@@ -65,28 +70,28 @@
         <div class="row">
 
             <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-PDG.pdf" class="text-black btn btn-warning fs-5">PDG</a>
+                <a href="../assets/fiche_de_poste/fiche-de-poste-PDG.pdf" class="text-black btn btn-warning fs-6" style="width: 320px">PDG</a>
             </div>
 
             <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-co-directeur.pdf" class="text-black btn fs-5 btn-warning">co-directeur</a>
+                <a href="../assets/fiche_de_poste/fiche-de-poste-co-directeur.pdf" class="text-black btn fs-6 btn-warning" style="width: 320px">co-directeur</a>
             </div>
 
 
             <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-chef-jv.pdf" class=" text-black btn btn-warning fs-5">chef du pôle jeu vidéo</a>
+                <a href="../assets/fiche_de_poste/fiche-de-poste-chef-jv.pdf" class=" text-black btn btn-warning fs-6" style="width: 320px">chef du pôle jeu vidéo</a>
             </div>
 
             <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-chef-m.pdf" class=" text-black btn btn-warning fs-5">chef du pôle matériel</a>
+                <a href="../assets/fiche_de_poste/fiche-de-poste-chef-m.pdf" class=" text-black btn btn-warning fs-6" style="width: 320px">chef du pôle matériel</a>
             </div>
 
             <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-employe-jv.pdf" class=" text-black btn btn-warning fs-5">Employé du pôle jeu vidéo</a>
+                <a href="../assets/fiche_de_poste/fiche-de-poste-employe-jv.pdf" class=" text-black btn btn-warning fs-6" style="width: 320px">Employé du pôle jeu vidéo</a>
             </div>
 
             <div class="col p-0 col-4 col-lg-3 mb-5 text-center">
-                <a href="../assets/fiche_de_poste/fiche-de-poste-employe-m.pdf" class=" text-black btn btn-warning fs-5">Employé du pôle matériel</a>
+                <a href="../assets/fiche_de_poste/fiche-de-poste-employe-m.pdf" class=" text-black btn btn-warning fs-6" style="width: 320px">Employé du pôle matériel</a>
             </div>
         </div>
 

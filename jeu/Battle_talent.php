@@ -34,7 +34,7 @@
 
             <div> <h1 class="m-3 text-center">Battle Talent</h1></div>
 
-            <div class="text-center m-3">Battle Talent est un jeu de combat à l'épée roguelite stimulant basé sur la physique.
+            <div class="text-center m-3">Battle Talent est un jeu de combat à l'épée stimulant basé sur la physique.
                 Fatigué de combattre des ennemis ennuyeux ? Battle Talent a créé pour vous un méga donjon procédural fluide avec
                 plus de 80 variantes d'ennemis, 100 armes, 60 avantages et plusieurs paysages qui changent à chaque fois.</div>
 
@@ -53,12 +53,12 @@
 
 </section>
 
-    <section id="avis" class="bg-light">
-        <div class="container">
+
+        <div class="container bg-light p-3 mb-5">
 
             <h3 class="text-center fw-semibold"><i class="bi bi-stars"></i> Avis</h3>
 
-            <p class="text-center">Ce que les utilisateurs pensent de la formation...</p>
+            <p class="text-center">Ce que les utilisateurs pensent du jeu...</p>
 
             <ul class="list-group">
                 <li class="list-group-item">
@@ -97,7 +97,6 @@
                 </li>
             </ul>
         </div>
-    </section>
 
 </main>
 

@@ -32,7 +32,7 @@
                 <p class="text-center text-body-secondary mb-4">Choisir le bon plan adapté à vos besoins</p>
 
                 <div class="row">
-                    <div class="col col-12 col-lg-3">
+                    <div class="col col-12 col-md-6 col-xl-3">
                         <div class="card mb-3 mx-0 border-0 mt-4" style="height: 540px">
 
                             <img src="../assets/images/materiel/casque_VR.webp" class="card-img-top w-75 mx-auto">
@@ -44,12 +44,12 @@
                                 <h2 class="fs-4 text-primary fw-bold">349.99€</h2>
 
                                 <p class="card-text d-lg-block d-none"> Casque VR </p>
-                                <a class="btn btn-outline-primary">Acheter maintenant</a>
+                                <a class="btn btn-outline-primary" href="../materiel/casque.php">Acheter maintenant</a>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col col-12 col-lg-3">
+                    <div class="col col-12 col-md-6 col-xl-3">
                         <div class="card mb-0 mx-0 border-2 border-primary" style="height: 565px">
                             <p class="text-primary bg-light m-0 text-center"> Le plus populaire</p>
                                 <img src="../assets/images/materiel/pc.jpg" class="card-img-top">
@@ -60,13 +60,13 @@
                                     <h2 class="fs-4 text-primary fw-bold">1299.99€</h2>
 
                                     <p class="card-text d-lg-block d-none"> Casque VR / PC </p>
-                                    <a class="btn btn-outline-primary">Acheter maintenant</a>
+                                    <a class="btn btn-outline-primary" href="../materiel/pc.php">Acheter maintenant</a>
                                 </div>
                         </div>
                     </div>
 
 
-                    <div class="col col-12 col-lg-3">
+                    <div class="col col-12 col-md-6 col-xl-3">
                         <div class="card mb-3 mx-0 border-0 mt-4" style="height: 540px">
 
                             <img src="../assets/images/materiel/full.jpg" class="card-img-top">
@@ -78,12 +78,12 @@
                                 <h2 class="fs-4 text-primary fw-bold">1599.99€</h2>
 
                                 <p class="card-text d-lg-block d-none"> Casque VR / PC / Full body tracking </p>
-                                <a class="btn btn-outline-primary">Acheter maintenant</a>
+                                <a class="btn btn-outline-primary" href="../materiel/full.php">Acheter maintenant</a>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col col-12 col-lg-3">
+                    <div class="col col-12 col-md-6 col-xl-3">
                         <div class="card mb-3 mx-0 border-0 mt-4" style="height: 540px">
 
                             <img src="../assets/images/materiel/combinaison.jpg" class="card-img-top">
@@ -95,7 +95,7 @@
                                 <h2 class="fs-4 text-primary fw-bold">2499.99€</h2>
 
                                 <p class="card-text d-lg-block d-none"> Casque VR / PC / Full body tracking / Combinaison haptique </p>
-                                <a class="btn btn-outline-primary">Acheter maintenant</a>
+                                <a class="btn btn-outline-primary" href="../materiel/combinaison.php">Acheter maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show bg-light"
                                  data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
+                                <div class="accordion-body text-white">
                                     Un casque de réalité virtuelle autonome pour accéder à ce nouvel environnement
                                     pouvant faire tourner les jeux et environnements les plus simples.
                                 </div>
@@ -143,7 +143,7 @@
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse bg-light" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
+                                <div class="accordion-body text-white">
                                     L'ajout de l'ordinateur dans la formule permet de faire tourner une plus grande
                                     variété de jeux, il peut également supporter des jeux plus conséquents. De plus,
                                     il débloquera certaines fonctionnalités dans certains jeux.
@@ -158,7 +158,7 @@
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse bg-light" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
+                                <div class="accordion-body text-white">
                                     Le full body tracking permet une immersion accrue, car celui-ci traque et
                                     retransmet tout le corps dans le jeu.
                                 </div>
@@ -172,7 +172,7 @@
                                 </button>
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse bg-light" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
+                                <div class="accordion-body text-white">
                                     Une combinaison haptique est une combinaison à même le corps, celle-ci vibre au
                                     endroit où l'avatar (votre corps virtuel) est touché. Cela permet une meilleure immersion et surtout plus de sensation.
                                 </div>

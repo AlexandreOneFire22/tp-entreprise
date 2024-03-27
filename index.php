@@ -33,7 +33,8 @@
                             <h3 class="card-title fs-1">Réalité virtuelle</h3>
                             <h5 class="card-title fs-4 text-secondary">Un nouveau monde à crée</h5>
                             <p class="card-text fs-5">Le monde virtuel est un monde différent du réel, car celui-ci est régi par des règles différentes des nôtres.
-                                Évidemment, il y a tout de même majoritairement des points communs, pourtant ce sont ses différences qui le rendent si attirant.</p>
+                                Évidemment, il y a tout de même majoritairement des points communs, pourtant ce sont ses différences qui le rendent si attirant.
+                                <br> Découvrez les par vous même.</p>
                             <a href="pages/materiel.php" class="btn btn-primary">Équipez vous maintenant</a>
                         </div>
                     </div>
